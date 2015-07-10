@@ -1,3 +1,6 @@
+* auto-gen TOC:
+{:toc}
+
 How to share data with a statistician
 ===========
 
